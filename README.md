@@ -6,6 +6,8 @@ https://www.slyautomation.com/blog/how-to-use-the-yolo-extracts-plugin-for-runel
 
 https://www.slyautomation.com/blog/how-to-configure-the-yolo-plugin-in-java/
 
+https://www.slyautomation.com/blog/how-the-code-works-yolo-extracts-plugin/
+
 ## Import Required Packages:
 
 Begin by importing the necessary packages in your Java code, specifically the net.runelite.client.config package.
