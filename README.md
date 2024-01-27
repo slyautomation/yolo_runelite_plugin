@@ -3,6 +3,7 @@
 Check out these guides on using this plugin: 
 
 https://www.slyautomation.com/blog/how-to-use-the-yolo-extracts-plugin-for-runelite/
+
 https://www.slyautomation.com/blog/how-to-configure-the-yolo-plugin-in-java/
 
 ## Import Required Packages:
