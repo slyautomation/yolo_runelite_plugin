@@ -1,5 +1,8 @@
 # yolo_runelite_plugin
 
+![image](https://github.com/slyautomation/yolo_runelite_plugin/assets/81003470/dcac7ff4-8789-4c38-a150-40d2c43097df)
+
+
 Check out these guides on using this plugin: 
 
 https://www.slyautomation.com/blog/how-to-use-the-yolo-extracts-plugin-for-runelite/
